@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Davis. You can call me Kunta. 
+- 👋 Hi, I’m Davis.
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Javascript and PHP.
 - 💞️ I’m looking to collaborate on Web dev projects 
