@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kunta969
+- 👋 Hi, I’m Davis Okioma. 
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Javascript and PHP.
 - 💞️ I’m looking to collaborate on Web dev projects 
