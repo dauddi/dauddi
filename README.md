@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Davis.
+- 👋 Hi, I’m Davies.
 - 👀 I’m a Frontend Developer.
 - 🌱 I’m currently learning React and Next.Js.
 - 💞️ I'd love to collaborate on React and Vanilla Js projects 
