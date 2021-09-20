@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Davies.
-- 👀 I’m a Frontend Developer.
+- 👀 I’m a Software Developer.
 - 🌱 I’m currently learning React and Next.Js.
-- 💞️ I'd love to collaborate on React and Vanilla Js projects 
+- 💞️ I'd love to collaborate on React and NodeJs projects 
 - 📫 How to reach me.. LinkedIn profile : https://linkedin.com/in/kunta-dev
 
 <!---
