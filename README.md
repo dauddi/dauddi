@@ -41,11 +41,11 @@ Topdevs is an online community of developers driving positive change through cod
 
 <!--START_SECTION:waka-->
 ```text
-Other   1 hr 10 mins    █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
-YAML    1 hr 6 mins     █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
-C       54 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-JSON    50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Ruby    31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
+JSX     2 hrs 11 mins   ███████▒░░░░░░░░░░░░░░░░░   28.74 % 
+YAML    1 hr 6 mins     ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+Other   54 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
+SCSS    50 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+C       46 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 ```
 <!--END_SECTION:waka-->
 
