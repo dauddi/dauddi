@@ -8,7 +8,7 @@ I'm Davis, a Software Developer and hobbyist Writer on [Medium](https://sirdavis
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently a student at Holberton
+- 🔭 I’m a Front-end Developer at UCPro and a student at Holberton
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📚 I’m currently learning Golang and TinyML.
 - 😄 Nicknames: Dauddi, Kunta .
