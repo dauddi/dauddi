@@ -41,9 +41,9 @@ Topdevs is an online community of developers driving positive change through cod
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   1 hr 39 mins    █████████████████████▓░░░   86.33 % 
-Git Config   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
-JSON         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+JavaScript   2 hrs 29 mins   ██████████████████████▓░░   90.46 % 
+Git Config   11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+JSON         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 ```
 <!--END_SECTION:waka-->
 
